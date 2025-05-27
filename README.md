@@ -33,7 +33,7 @@
 ## 💬 Fun Fact or Motto
 
 > "Automation is not just coding — it's controlling the machine."  
-> "14 ঘন্টা কোডিং করি, কারণ এটা আমার নেশা।"
+> "14 hr/dy of coding isn’t burnout — it’s flow."
 
 ---
 
