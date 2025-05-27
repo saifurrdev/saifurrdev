@@ -5,17 +5,18 @@
 
 ---
 
-## 🛠️ Top Skills & Technologies
+## 📦 Top Skills & Technologies
 
 - **Python:** Web Automation, App Automation, Web Scraping
+- **Ai / Ml:** Experimentation, Model Integration (WIP/Interest area)
 - **Reverse Engineering (Android):** APK Paching, API Extraction
-- **Tools:** BeautifulSoup, Selenium, Frida, Requests
+- **Tools:** BeautifulSoup, Selenium, Frida, Requests, Llama
 - **FastAPI, Flask:** Lightweight API systems
 
 ---
 
 
-### 🚀 Tech Stack Badges
+### 📜 Tech Stack Badges
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,6 +37,6 @@
 
 ---
 
-## 📍 Location
+## 🗺️ Location
 
 Bangladesh 🇧🇩
