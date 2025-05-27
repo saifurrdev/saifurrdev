@@ -36,7 +36,3 @@
 > "14 hr/dy of coding isn’t burnout — it’s flow."
 
 ---
-
-## 🗺️ Location
-
-Bangladesh 🇧🇩
