@@ -30,9 +30,4 @@
 
 ---
 
-## 💬 Fun Fact or Motto
 
-> "Automation is not just coding — it's controlling the machine."  
-> "14 hr/dy > code > eat > sleep > restart"
-
----
