@@ -30,4 +30,5 @@
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/saifurrdev?theme=dark)
 
